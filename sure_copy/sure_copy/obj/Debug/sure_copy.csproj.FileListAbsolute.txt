@@ -1,0 +1,8 @@
+C:\SourceCode\personal\sure_copy\sure_copy\bin\Debug\sure_copy.exe.config
+C:\SourceCode\personal\sure_copy\sure_copy\obj\Debug\sure_copy.csprojResolveAssemblyReference.cache
+C:\SourceCode\personal\sure_copy\sure_copy\bin\Debug\sure_copy.exe
+C:\SourceCode\personal\sure_copy\sure_copy\bin\Debug\sure_copy.pdb
+C:\SourceCode\personal\sure_copy\sure_copy\obj\Debug\sure_copy.exe
+C:\SourceCode\personal\sure_copy\sure_copy\obj\Debug\sure_copy.pdb
+C:\SourceCode\personal\sure_copy\sure_copy\bin\Debug\FileSystemLogger.dll
+C:\SourceCode\personal\sure_copy\sure_copy\bin\Debug\FileSystemLogger.pdb

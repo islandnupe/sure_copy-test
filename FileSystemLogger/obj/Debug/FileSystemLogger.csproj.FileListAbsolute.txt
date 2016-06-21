@@ -1,0 +1,5 @@
+C:\SourceCode\personal\FileSystemLogger\bin\Debug\FileSystemLogger.dll
+C:\SourceCode\personal\FileSystemLogger\bin\Debug\FileSystemLogger.pdb
+C:\SourceCode\personal\FileSystemLogger\obj\Debug\FileSystemLogger.dll
+C:\SourceCode\personal\FileSystemLogger\obj\Debug\FileSystemLogger.pdb
+C:\SourceCode\personal\FileSystemLogger\obj\Debug\FileSystemLogger.csprojResolveAssemblyReference.cache
